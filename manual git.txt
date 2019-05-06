@@ -1,0 +1,6 @@
+git add . -> adicionar arquivos modificados 
+git status -> ver modificaçoes 
+git commit -m "comentario" -> cria uma versao de alteraçoes
+git push -> sobe as alteraçoes para o repositorio na nuvem 
+git pull -> comita o projeto local com o projeto nuvem o inverso do git push 
+git clone "caminho" -> clona projeto da nuvem
