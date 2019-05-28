@@ -16,11 +16,13 @@ Menu Principal
 - Fotos
 - Multimídia
 - Fale conosco
-
-Tecnologia > Inovações
-Saiba tudo sobre o Google Glass
-por Gustavo Guanabara
+</header>
+<hgroup>
+<h3> Tecnologia > Inovações</h3>
+<h1>Saiba tudo sobre o Google Glass</h1>
+<h3>por Gustavo Guanabara</h3>
 Atualizado em 23/Abril/2013
+</hgroup>
 
 O que é
 O Google Glass é um acessório em forma de óculos que possibilita a interação dos usuários com diversos conteúdos em realidade aumentada. Também chamado de Project Glass, o eletrônico é capaz de tirar fotos a partir de comandos de voz, enviar mensagens instantâneas e realizar vídeoconferências. Seu lançamento está previsto para 2014, e seu preço deve ser de US$ 1,5 mil. Atualmente o Google Glass encontra-se em fase de testes e já possui um vídeo totalmente gravado com o dispositivo. Além disso, a companhia de buscas registrou novas patentes anti-furto e de desbloqueio de tela para o acessório.
@@ -57,4 +59,4 @@ O Google enfim revelou as especificações completas do Google Glass, e com ele 
 Além da surpresa do áudio, a tela montada a frente do olho do usuário também chamou atenção. Serão 640 x 360 pixels de resolução que, em proporção, equivaleria a um monitor de 25 polegadas de alta definição colocado a 2,5 metros de distância do espectador.
 </body>
 </html>
-Copyright 2013 - by Gustavo Guanabara
+Copyright  2013 - by Gustavo Guanabara
